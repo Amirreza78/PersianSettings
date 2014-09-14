@@ -9,31 +9,31 @@
 $l['setting_group_onlineoffline'] = 'حاضر/غایب بودن انجمن';
 $l['setting_group_onlineoffline_desc'] = 'این تنظمیات به شما اجازه می‌دهد تا انجمن‌هایتان را به صورت عمومی حاضر یا غایت کنید، و همچنین به شما اجازه می‌دهد تا دلیلی برای خاموش کردن انجمن بنویسید.';
 
-$l['setting_boardclosed'] = 'Board Closed';
+$l['setting_boardclosed'] = 'انجمن بسته است';
 $l['setting_boardclosed_desc'] = 'If you need to close your forums to make some changes or perform an upgrade, this is the global switch. Viewers will not be able to view your forums, however, they will see a message with the reason you specify below. Administrators will still be able to view the forums.';
-$l['setting_boardclosed_reason'] = 'Board Closed Reason';
-$l['setting_boardclosed_reason_desc'] = 'If your forum is closed, you can set a message here that your visitors will be able to see when they visit your forums.';
+$l['setting_boardclosed_reason'] = 'دلیل بسته بودن انجمن';
+$l['setting_boardclosed_reason_desc'] = 'اگر انجمنتان را ببندید،باید یک پیام وارد کنید تا مراجعین انجمنتان آن را ببینند ';
 
 
 
 $l['setting_group_details'] = 'اطلاعات انجمن';
 $l['setting_group_details_desc'] = 'This section contains various settings such as your board name and url, as well as your website name and url.';
 
-$l['setting_bbname'] = 'Board Name';
+$l['setting_bbname'] = 'نام انجمن';
 $l['setting_bbname_desc'] = 'The name of your community. We recommend that it is not over 75 characters.';
-$l['setting_bburl'] = 'Board URL';
+$l['setting_bburl'] = 'نشانی انجمن';
 $l['setting_bburl_desc'] = 'The url to your forums.<br />Include the http://. Do NOT include a trailing slash.';
-$l['setting_homename'] = 'Homepage Name';
+$l['setting_homename'] = 'نام صفحه اصلی';
 $l['setting_homename_desc'] = 'The name of your homepage. This will appear in the footer with a link to it.';
-$l['setting_homeurl'] = 'Homepage URL';
+$l['setting_homeurl'] = 'نشانی صفحه اصلی';
 $l['setting_homeurl_desc'] = 'The full URL of your homepage. This will be linked to in the footer along with its name.';
-$l['setting_adminemail'] = 'Admin Email';
+$l['setting_adminemail'] = 'رایانامه مدیر';
 $l['setting_adminemail_desc'] = 'The administrator\'s email address. This will be used for outgoing emails sent via the forums.';
 $l['setting_returnemail'] = 'Return Email';
 $l['setting_returnemail_desc'] = 'The email address for incoming replies to outgoing emails sent via the forums and is useful for no-reply accounts. Leave blank to use the admin email address instead.';
-$l['setting_contactlink'] = 'Contact Us Link';
+$l['setting_contactlink'] = 'نشانی تماس با ما';
 $l['setting_contactlink_desc'] = 'This will be used for the Contact Us link on the bottom of all the forum pages. Can either be an email address (using mailto:email@website.com) or a hyperlink.';
-$l['setting_cookiedomain'] = 'Cookie Domain';
+$l['setting_cookiedomain'] = 'کوکی دامنه';
 $l['setting_cookiedomain_desc'] = 'The domain which cookies should be set to. This can remain blank. It should also start with a . so it covers all subdomains.';
 $l['setting_cookiepath'] = 'Cookie Path';
 $l['setting_cookiepath_desc'] = 'The path which cookies are set to. We recommend setting this to the full directory path to your forums with a trailing slash.';
